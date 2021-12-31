@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Pau 👋:computer:
+
+
+```js
+const pau = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [Bootstrap, SASS]
+}
+```
+
+You can find me 📫 
+- [LinkedIn](https://linkedin.com/in/pauladumrauf)
+- [Instagram](https://instagram.com/pdumrauf)
+
 
 <!--
 **pdumrauf/pdumrauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
