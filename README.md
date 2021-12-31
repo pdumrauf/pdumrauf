@@ -1,5 +1,6 @@
-### Hi, I'm Pau 👋:computer:
+### Hi, I'm Pau :wave::woman_technologist:
 
+## about me in code
 
 ```js
 const pau = {
@@ -9,7 +10,7 @@ const pau = {
 }
 ```
 
-You can find me 📫 
+## You can find me on :mailbox: 
 - [LinkedIn](https://linkedin.com/in/pauladumrauf)
 - [Instagram](https://instagram.com/pdumrauf)
 
@@ -20,7 +21,7 @@ You can find me 📫
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
