@@ -2,7 +2,6 @@
 
 ```js
 const pau = {
-  pronouns: "she" | "her",
   country: [Argentina],
   livingIn: [Paris],
   passions: [Languages, Music, Videogames, Books],
