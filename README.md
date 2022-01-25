@@ -4,7 +4,7 @@
 const pau = {
   country: [Argentina],
   livingIn: [Paris],
-  passions: [Languages, Music, Videogames, Books],
+  passions: [Languages, Music, Videogames, Books]
 }
 ```
 
