@@ -9,7 +9,7 @@ const pau = {
 }
 ```
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
