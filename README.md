@@ -9,7 +9,7 @@ const pau = {
 }
 ```
 
-🌱 I’m currently learning **NodeJS**
+🌱 I’m currently learning **VueJS**
 
 <!--
 **pdumrauf/pdumrauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
