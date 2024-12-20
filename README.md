@@ -9,8 +9,8 @@ const pau = {
 }
 ```
 
-🌱 I’m currently working with **Vue**
-🔭 I’m practicing **React**
+- 🌱 I’m currently working with **Vue**
+- 🔭 I’m practicing **React**
 
 
 <!--
